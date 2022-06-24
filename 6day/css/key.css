@@ -1,0 +1,7 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: tomato;
+    position: relative;
+    transition: all 0.25s;
+}

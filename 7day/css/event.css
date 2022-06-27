@@ -1,0 +1,14 @@
+.menu li {
+    color: black;
+    cursor: pointer;
+}
+
+.menu li:hover {
+    color: red;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: green;
+}

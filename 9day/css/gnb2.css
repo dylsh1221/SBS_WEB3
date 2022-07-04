@@ -22,3 +22,13 @@ body {
     color: white;
     float: left;
 }
+
+.gnb > li ul {
+    height: 0;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+
+.gnb > li:hover ul {
+    height: auto;
+}
